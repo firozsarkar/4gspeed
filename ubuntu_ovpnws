@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='174.138.187.20';
+USER='hostings_4gspeedpro2';
+PASS='hostings_4gspeedpro2';
+DBNAME='hostings_4gspeedpro2';
+PORT_TCP='1194';
+PORT_UDP='53';
+404: Not Found
